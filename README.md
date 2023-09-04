@@ -1,5 +1,4 @@
-# co95948f9b6ad8bcdb70605bb
-
+# Counter-App
 Quick start:
 
 ```
